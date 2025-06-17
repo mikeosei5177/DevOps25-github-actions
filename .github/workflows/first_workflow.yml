@@ -13,5 +13,4 @@ jobs:
             - name: List Files 
               run: ls 
 
-            - name: Read file 
-              run: cat dockerfile
+           
